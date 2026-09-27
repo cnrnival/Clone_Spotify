@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Google Sans', sans-serif;
+}
+
+:root{
+    --primary: #121212;
+    --texte-primary: #121212
+}
+body {
+    background-color: #000;
+
+}
